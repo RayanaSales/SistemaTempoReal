@@ -1,0 +1,12 @@
+Testes: 123
+
+Tarefa 1
+carga:2, periodo:6 , utilizacao:33 
+
+Tarefa 2
+carga:5, periodo:3 , utilizacao:15
+
+Tarefa 3
+carga:3, periodo:5 , utilizacao:20
+
+
